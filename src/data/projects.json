@@ -1,0 +1,80 @@
+[
+  {
+    "id": "okm",
+    "carouselImages": ["loginpage.webp"],
+    "projectRepo": "https://github.com/hymndavinci/login-page.git",
+    "projectTitle": "Login Page",
+    "projectSlogan": "The Exclusive Template",
+    "projectDescription": "The Login Page template provides a clean, user-friendly interface designed for quick and secure user authentication. With fields for entering email or username and password, along with a prominent login button, it ensures a smooth login experience.",
+    "projectTechnologies": [
+      {
+        "name": "HTML",
+        "icon": "html"
+      },
+      {
+        "name": "CSS",
+        "icon": "css"
+      },
+      {
+        "name": "Javascript",
+        "icon": "javascript"
+      },
+      {
+        "name": "Bootstrap 5",
+        "icon": "bootstrap"
+      }
+    ]
+  },
+  {
+    "id": "okm1",
+    "carouselImages": ["image.png"],
+    "projectRepo": "https://github.com/hymndavinci/poertoe.git",
+    "projectTitle": "Portofolio",
+    "projectSlogan": "The Personal Brand",
+    "projectDescription": "A portfolio landing page is a personal or professional web page designed to showcase an individual’s skills, experience, and creative work. It typically features a clean and organized layout with sections for project highlights, a short bio or introduction, technical or creative skills, and contact information.",
+    "projectTechnologies": [
+      {
+        "name": "HTML",
+        "icon": "html"
+      },
+      {
+        "name": "CSS",
+        "icon": "css"
+      },
+      {
+        "name": "Javascript",
+        "icon": "javascript"
+      },
+      {
+        "name": "Bootstrap 5",
+        "icon": "bootstrap"
+      }
+    ]
+  },
+  {
+    "id": "okm2",
+    "carouselImages": ["image.png"],
+    "projectRepo": "https://github.com/hymndavinci/landing-dahayu.git",
+    "projectTitle": "Landing Page",
+    "projectSlogan": "The Creative Showcase",
+    "projectDescription": "A Discord landing page is a focused web page designed to introduce users to a specific Discord server or community, highlighting its purpose, features, and benefits. It typically includes a brief description of what the server offers—such as gaming discussions, study groups, tech support, or fan communities—along with engaging visuals, server rules or guidelines, and a clear invitation link to join.",
+    "projectTechnologies": [
+      {
+        "name": "HTML",
+        "icon": "html"
+      },
+      {
+        "name": "CSS",
+        "icon": "css"
+      },
+      {
+        "name": "Javascript",
+        "icon": "javascript"
+      },
+      {
+        "name": "Bootstrap 5",
+        "icon": "bootstrap"
+      }
+    ]
+  }
+]
